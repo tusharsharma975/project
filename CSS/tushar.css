@@ -1,0 +1,38 @@
+body {
+  text-align: center;
+  margin: 0;
+  background-color: #b5eaea;
+}
+h1 {
+  font-family: "Dancing Script", cursive;
+  font-size: 3rem;
+  word-spacing: 7px;
+}
+h3{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 1.5rem;
+    word-spacing: 5px;
+}
+.container {
+  padding: 4rem;
+  background-color: #b5eaea;
+  position: relative;
+}
+.image1 {
+  position: absolute;
+  top: 7rem;
+  right: 7rem;
+}
+.image3 {
+  position: absolute;
+  bottom: 7rem;
+  left: 7rem;
+}
+
+.boy{
+    height: 5rem;
+    width: 5rem;
+}
+.bottom-container{
+    word-spacing: 100%;
+}

@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+}
+.first{
+    background-color:#A03C78;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    
+  
+    
+}
+.second{
+    background-color:#ED8E7C;
+    height: 100px;
+    width: 100px;
+    margin : 0;
+    position: absolute;
+    left: 100px;
+    top: 100px;
+    
+}
+.third{
+    background-color: #515E63;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    left: 200px;
+    top: 200px;
+    margin: 0;
+   
+    
+}
+img{
+    background-color: #B5EAEA; 
+    
+    
+   
+   
+}
